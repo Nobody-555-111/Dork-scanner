@@ -1,0 +1,1068 @@
+site:TARGET inurl:admin
+site:TARGET inurl:administrator
+site:TARGET inurl:wp-admin
+site:TARGET inurl:wp-login
+site:TARGET inurl:panel
+site:TARGET inurl:cpanel
+site:TARGET inurl:dashboard
+site:TARGET inurl:login
+site:TARGET inurl:auth
+site:TARGET inurl:signin
+site:TARGET inurl:account
+site:TARGET inurl:user
+site:TARGET inurl:users
+site:TARGET inurl:manager
+site:TARGET inurl:control
+site:TARGET inurl:secure
+site:TARGET inurl:private
+site:TARGET inurl:staff
+site:TARGET inurl:mod
+site:TARGET inurl:moderator
+site:TARGET inurl:root
+site:TARGET inurl:superadmin
+site:TARGET inurl:sysadmin
+site:TARGET inurl:management
+site:TARGET inurl:backend
+site:TARGET inurl:backoffice
+site:TARGET inurl:portal
+site:TARGET inurl:gateway
+site:TARGET inurl:console
+site:TARGET inurl:operator
+site:TARGET inurl:webadmin
+site:TARGET inurl:owa
+site:TARGET inurl:exchange
+site:TARGET inurl:webmail
+site:TARGET inurl:roundcube
+site:TARGET inurl:horde
+site:TARGET inurl:squirrelmail
+site:TARGET inurl:citrix
+site:TARGET inurl:vpn
+site:TARGET inurl:remote
+site:TARGET inurl:rdp
+site:TARGET inurl:ssh
+site:TARGET inurl:ftp
+site:TARGET inurl:sftp
+site:TARGET inurl:config
+site:TARGET inurl:conf
+site:TARGET inurl:setup
+site:TARGET inurl:install
+site:TARGET inurl:installer
+site:TARGET inurl:env
+site:TARGET inurl:.env
+site:TARGET inurl:.git
+site:TARGET inurl:.svn
+site:TARGET inurl:.htaccess
+site:TARGET inurl:robots.txt
+site:TARGET inurl:sitemap.xml
+site:TARGET inurl:crossdomain.xml
+site:TARGET inurl:phpinfo
+site:TARGET inurl:info.php
+site:TARGET inurl:test.php
+site:TARGET inurl:wp-config
+site:TARGET inurl:config.php
+site:TARGET inurl:database.php
+site:TARGET inurl:backup.sql
+site:TARGET inurl:dump.sql
+site:TARGET inurl:backup.zip
+site:TARGET inurl:backup.tar
+site:TARGET inurl:.bak
+site:TARGET inurl:.old
+site:TARGET inurl:.swp
+site:TARGET inurl:composer.json
+site:TARGET inurl:package.json
+site:TARGET inurl:yarn.lock
+site:TARGET inurl:gemfile.lock
+site:TARGET inurl:requirements.txt
+site:TARGET inurl:.htpasswd
+site:TARGET inurl:server-status
+site:TARGET inurl:server-info
+site:TARGET inurl:php.ini
+site:TARGET inurl:my.cnf
+site:TARGET inurl:web.config
+site:TARGET inurl:app.config
+site:TARGET inurl:api
+site:TARGET inurl:v1
+site:TARGET inurl:v2
+site:TARGET inurl:graphql
+site:TARGET inurl:rpc
+site:TARGET inurl:ws
+site:TARGET inurl:websocket
+site:TARGET inurl:socket.io
+site:TARGET inurl:rest
+site:TARGET inurl:soap
+site:TARGET inurl:xmlrpc
+site:TARGET inurl:json
+site:TARGET inurl:feed
+site:TARGET inurl:rss
+site:TARGET inurl:atom
+site:TARGET inurl:wp-json
+site:TARGET inurl:artisan
+site:TARGET inurl:tinker
+site:TARGET inurl:laravel
+site:TARGET inurl:upload
+site:TARGET inurl:uploads
+site:TARGET inurl:files
+site:TARGET inurl:file
+site:TARGET inurl:download
+site:TARGET inurl:export
+site:TARGET inurl:logs
+site:TARGET inurl:log
+site:TARGET inurl:error
+site:TARGET inurl:debug
+site:TARGET inurl:test
+site:TARGET inurl:staging
+site:TARGET inurl:dev
+site:TARGET inurl:beta
+site:TARGET inurl:demo
+site:TARGET inurl:trial
+site:TARGET inurl:sandbox
+site:TARGET inurl:access.log
+site:TARGET inurl:error.log
+site:TARGET inurl:nginx.conf
+site:TARGET inurl:httpd.conf
+site:TARGET inurl:cache
+site:TARGET inurl:tmp
+site:TARGET inurl:temp
+site:TARGET inurl:db
+site:TARGET inurl:database
+site:TARGET inurl:mysql
+site:TARGET inurl:postgres
+site:TARGET inurl:sqlite
+site:TARGET inurl:redis
+site:TARGET inurl:storage
+site:TARGET inurl:backup
+site:TARGET inurl:backups
+site:TARGET inurl:dump
+site:TARGET inurl:passwd
+site:TARGET inurl:shadow
+site:TARGET inurl:hosts
+site:TARGET inurl:ssh
+site:TARGET inurl:id_rsa
+site:TARGET inurl:privatekey
+site:TARGET inurl:cert
+site:TARGET inurl:certs
+site:TARGET inurl:key
+site:TARGET inurl:secrets
+site:TARGET inurl:license
+site:TARGET filetype:sql
+site:TARGET filetype:gz
+site:TARGET filetype:zip
+site:TARGET filetype:tar
+site:TARGET filetype:bak
+site:TARGET filetype:json
+site:TARGET filetype:xml
+site:TARGET filetype:conf
+site:TARGET filetype:ini
+site:TARGET filetype:pem
+site:TARGET inurl:wp-content
+site:TARGET inurl:wp-includes
+site:TARGET inurl:readme.html
+site:TARGET inurl:license.txt
+site:TARGET "wpnonce"
+site:TARGET "wordpress"
+site:TARGET "powered by wordpress"
+site:TARGET intext:"wordpress"
+site:TARGET inurl:joomla
+site:TARGET inurl:drupal
+site:TARGET inurl:magento
+site:TARGET inurl:prestashop
+site:TARGET inurl:opencart
+site:TARGET "powered by joomla"
+site:TARGET "drupal is"
+site:TARGET "magento"
+site:TARGET inurl:admin.php
+site:TARGET inurl:login.php
+site:TARGET inurl:admin.html
+site:TARGET inurl:login.html
+site:TARGET inurl:admin.asp
+site:TARGET inurl:login.aspx
+site:TARGET inurl:config.bak
+site:TARGET inurl:database.sql.gz
+site:TARGET inurl:.env.local
+site:TARGET inurl:artisan.php
+site:TARGET inurl:index.php.bak
+site:TARGET ext:sql | ext:txt | ext:log
+site:TARGET "index of /backup"
+site:TARGET "index of /admin"
+site:TARGET "index of /.git"
+site:TARGET "index of /uploads"
+site:TARGET intitle:"index of"
+site:TARGET inurl:.git/HEAD
+site:TARGET "db_password"
+site:TARGET "db_user"
+site:TARGET "DATABASE_URL"
+site:TARGET "mysql_connect"
+site:TARGET "PDO::"
+site:TARGET "mysqli_"
+site:TARGET "session_start"
+site:TARGET "eval("
+site:TARGET "base64_decode"
+site:TARGET "gzinflate"
+site:TARGET "str_rot"
+site:TARGET "adminer.php"
+site:TARGET "phpmyadmin"
+site:TARGET "pma"
+site:TARGET "dbadmin"
+site:TARGET "sqlmanager"
+site:TARGET "sqlyog"
+site:TARGET "heidisql"
+site:TARGET "navicat"
+site:TARGET inurl:flag
+site:TARGET inurl:ctf
+site:TARGET inurl:(../|....//|....\\|%2e%2e%2f|%252e%252e%252f)
+site:TARGET inurl:(load_file|union|extractvalue|updatexml)
+site:TARGET inurl:(proc/self/environ|etc/passwd|boot.ini)
+site:TARGET inurl:(/etc/hosts|windows/win.ini|proc/version)
+site:TARGET intext:"Warning: include()|require()"
+site:TARGET inurl:(template=|tpl=|theme=)
+site:TARGET inurl:(file=|upload=|include=)
+site:TARGET inurl:(?tpl=|&template=)
+site:TARGET inurl:(xfsearch|skin/)
+site:TARGET inurl:(/var/www/|/usr/local/)
+site:TARGET "parameter>filename</parameter>"
+site:TARGET inurl:(?page=|&page=)
+site:TARGET inurl:(skin_lookup=)
+site:TARGET "Warning: fopen()"
+site:TARGET inurl:(/data/|/logs/|/backup/)
+site:TARGET "root:*:0:0:"
+site:TARGET "PostgreSQL query failed"
+site:TARGET inurl:(eval\(|assert\(|preg_replace)
+site:TARGET inurl:(base64_decode|gzuncompress|gzinflate)
+site:TARGET "PHP Parse error"
+site:TARGET "Fatal error.*in.*on line"
+site:TARGET inurl:(cmd=|system\(|exec\(|passthru\()
+site:TARGET inurl:(php://filter|expect://|data://)
+site:TARGET "You have an error in your SQL syntax"
+site:TARGET inurl:(127.0.0.1|localhost|0.0.0.0)
+site:TARGET inurl:(169.254.|10.0.|192.168.|172.16.)
+site:TARGET "Requesting http://127.0.0.1"
+site:TARGET inurl:(gopher://|dict://|file://)
+site:TARGET inurl:(url=|redirect=|forward=)
+site:TARGET "Internal Server Error.*proxy"
+site:TARGET inurl:(metadata.|management.)
+site:TARGET inurl:(consul.|etcd.|zookeeper.)
+site:TARGET inurl:(prometheus.|grafana.|kibana.)
+site:TARGET "X-Forwarded-For: 127.0.0.1"
+site:TARGET "Forwarded: for=127.0.0.1"
+site:TARGET inurl:(/_aws/|/_elastic)
+site:TARGET inurl:(/_cat/indices|/_nodes)
+site:TARGET "Elasticsearch.*status"
+site:TARGET "_msearch"
+site:TARGET inurl:(/_cluster/|/_nodes/)
+site:TARGET "docker.*containers"
+site:TARGET inurl:(/v1/containers|/_ping)
+site:TARGET "Kubernetes.*dashboard"
+site:TARGET inurl:(/api/v1/|/_health)
+site:TARGET "redis.*command"
+site:TARGET "memcached.*get"
+site:TARGET intext:"-----BEGIN RSA PRIVATE"
+site:TARGET intext:"BEGIN CERTIFICATE"
+site:TARGET intext:"DB_PASSWORD|DB_USER"
+site:TARGET intext:"AWS_ACCESS_KEY_ID"
+site:TARGET intext:"AWS_SECRET_ACCESS_KEY"
+site:TARGET intext:"api_key|secret_key"
+site:TARGET intext:"private_key|ssh_key"
+site:TARGET "-----BEGIN PGP PRIVATE"
+site:TARGET intext:"xoxb-|xoxp-|xoxa-"
+site:TARGET "Bearer eyJ0eXAiOiJKV1Q"
+site:TARGET intext:"ghp_|ghu_|ghs_|github_pat_"
+site:TARGET "firebase.*sdk"
+site:TARGET intext:"cloudinary.*cloud_name"
+site:TARGET "stripe.*pk_live|sk_live"
+site:TARGET "paypal.*client_id"
+site:TARGET intext:"sendgrid.*key"
+site:TARGET "twilio.*account_sid"
+site:TARGET intext:"square.*access_token"
+site:TARGET "shopify.*myshopify"
+site:TARGET "mailchimp.*dc-api"
+site:TARGET intext:"algolia.*application-id"
+site:TARGET "password.*hash"
+site:TARGET intext:"bcrypt.*$2"
+site:TARGET "session.*cookie"
+site:TARGET intext:"jwt.*secret"
+site:TARGET inurl:(/wp-content/debug.log)
+site:TARGET inurl:(/wp-config.php.bak)
+site:TARGET "wp_mail_smtp"
+site:TARGET "Yoast SEO"
+site:TARGET inurl:(/sites/default/files/)
+site:TARGET "Drupal!7"
+site:TARGET inurl:(civicrm/)
+site:TARGET "Joomla! 1.5"
+site:TARGET inurl:(/app/cache/|/var/cache/)
+site:TARGET "Magento Admin"
+site:TARGET inurl:(downloader/)
+site:TARGET "PrestaShop"
+site:TARGET inurl:(/admin123/)
+site:TARGET "OpenCart"
+site:TARGET inurl:(/system/storage/)
+site:TARGET "Laravel.*whoops"
+site:TARGET inurl:(/storage/logs/laravel.log)
+site:TARGET "_token.*laravel"
+site:TARGET inurl:(/public/storage/)
+site:TARGET "CSRF token mismatch"
+site:TARGET "ThinkPHP"
+site:TARGET inurl:(/?s=|)
+site:TARGET "extplorer"
+site:TARGET "PMA"
+site:TARGET "BigDump"
+site:TARGET inurl:(/vendor/)
+site:TARGET "composer.lock.*gedev"
+site:TARGET "package-lock.json"
+site:TARGET inurl:(/.next/)
+site:TARGET "Next.js.*build"
+site:TARGET inurl:(/.nuxt/)
+site:TARGET "Nuxt.*error"
+site:TARGET inurl:(/.vuepress/dist/)
+site:TARGET intext:"vault.*token"
+site:TARGET "nomad.*token"
+site:TARGET "terraform.*state"
+site:TARGET ".tfstate"
+site:TARGET "ansible-vault"
+site:TARGET "cloudformation.*template"
+site:TARGET "eks.*cluster"
+site:TARGET "gke.*cluster"
+site:TARGET "aks.*cluster"
+site:TARGET inurl:(/_healthz|/_readyz)
+site:TARGET "kubeconfig"
+site:TARGET "serviceaccount.*token"
+site:TARGET ".kube/config"
+site:TARGET "docker-compose.*override"
+site:TARGET "docker-secrets"
+site:TARGET "swarm.*token"
+site:TARGET ".env.production"
+site:TARGET ".env.development"
+site:TARGET "netrc"
+site:gedev.id_rsa
+site:TARGET ".npmrc"
+site:TARGET ".yarnrc"
+site:TARGET inurl:(/proc/self/cmdline)
+site:TARGET "/proc/self/fd/"
+site:TARGET "/proc/self/maps"
+site:TARGET "Linux.*uname -a"
+site:TARGET "Apache/2.4.*Server"
+site:TARGET "nginx/1.18.*"
+site:TARGET "Server: Apache"
+site:TARGET "X-Powered-By: PHP"
+site:TARGET "cf-ray"
+site:TARGET "cloudflare.*ray"
+site:TARGET "akamai.*"
+site:TARGET "X-Cache: MISS"
+site:TARGET "Vary: Accept-Encoding"
+site:TARGET "X-Generator: "
+site:TARGET "Generator: "
+site:TARGET "meta generator"
+site:TARGET "robots.txt.*Disallow"
+site:TARGET "sitemap.xml.*gedev"
+site:TARGET "security.txt"
+site:TARGET ".well-known/assetlinks.json"
+site:TARGET "apple-app-site-association"
+site:TARGET inurl:(`${|${IFS}|$IFS|$((|$(|)
+site:TARGET inurl:(;cat|;ls|;whoami|;id|;uname)
+site:TARGET inurl:(&&id|&&whoami|&&cat /etc/passwd)
+site:TARGET inurl:(`id`|`whoami`|`ls -la`)
+site:TARGET inurl:(\\\|\\;id|\\\;whoami)
+site:TARGET inurl:(%0Awhoami|%0Aid|%0Als)
+site:TARGET inurl:(/\../etc/passwd|/\../windows/win.ini)
+site:TARGET inurl:(expect://id|data://text/plain;base64,id)
+site:TARGET inurl:(php://filter/convert.base64-encode/resource=index)
+site:TARGET inurl:(zip://|bzip2://|phar://|/proc/self/environ)
+site:TARGET "uid=" intext:"(root|0)"
+site:TARGET inurl:(system\(|passthru\(|shell_exec\()
+site:TARGET inurl:(`curl|wget --post-data|nc -e)
+site:TARGET "sh: command not found"
+site:TARGET inurl:(bash -c|sh -c|cmd /c)
+site:TARGET inurl:(nslookup|dig +comment|host -t)
+site:TARGET "ping: unknown host"
+site:TARGET inurl:(|nc -lvp 4444|bash -i >&)
+site:TARGET inurl:(union all select|union select 1,2,3)
+site:TARGET inurl:(?id=1' or '1'='1|--|/*)
+site:TARGET inurl:(limit 1 offset 1|rownum=1)
+site:TARGET "mysql_fetch_array() expects parameter 1"
+site:TARGET "Call to a member function query() on null"
+site:TARGET inurl:(extractvalue(1,concat(0x7e,(database())))
+site:TARGET inurl:(updatexml(1,concat(0x7e,(version())),1))
+site:TARGET "ORA-01756: quoted string not properly terminated"
+site:TARGET "Microsoft OLE DB Provider for ODBC Drivers error"
+site:TARGET inurl:(sleep(5)|benchmark(10000000,md5(1)))
+site:TARGET "Query failed: ERROR: parser: parse error"
+site:TARGET inurl:(information_schema.tables|sysobjects)
+site:TARGET "SQL syntax near 'union' at line 1"
+site:TARGET inurl:(pg_sleep(5)|waitfor delay '0:0:5')
+site:TARGET "ODBC Microsoft Access Driver"
+site:TARGET inurl:(master..sysdatabases|master.dbo.sysdatabases)
+site:TARGET "DB2 SQL error"
+site:TARGET "supplied argument is not a valid MySQL result"
+site:TARGET inurl:(@@version|version()|database())
+site:TARGET "PostgreSQL query failed: ERROR"
+site:TARGET "SQLite3 error"
+site:TARGET "SQLSTATE[HY000]"
+site:TARGET inurl:(GROUP_CONCAT|CONCAT_WS)
+site:TARGET inurl:(javascript:alert|javascript:confirm)
+site:TARGET inurl:(<script>alert(1)</script>|onerror=alert)
+site:TARGET inurl:(svg onload=alert|img src=x onerror=alert)
+site:TARGET "[object Object]" intext:"document.cookie"
+site:TARGET inurl:(eval\(atob\(|new Function\()
+site:TARGET "XSS Auditor refused to execute"
+site:TARGET inurl:(data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==)
+site:TARGET inurl:(vbscript:msgbox|javascript:window.onerror)
+site:TARGET "Reflected XSS protection enabled"
+site:TARGET inurl:(onmouseover=alert|onfocus=alert)
+site:TARGET inurl:(<iframe src=javascript:alert(1)|<embed src=javascript:alert)
+site:TARGET "Blocked loading mixed active content"
+site:TARGET inurl:(expression\(alert\(1\)|behavior:url(#default#clientCaps))
+site:TARGET inurl:(view-source:javascript:alert(1))
+site:TARGET "Content Security Policy"
+site:TARGET inurl:(?search=<script>|q=<img src=x onerror=alert)
+site:TARGET inurl:(constructor.constructor\(constructor.constructor\()
+site:TARGET "X-Content-Type-Options: nosniff"
+site:TARGET inurl:(location=javascript:alert\(1\))
+site:TARGET inurl:(<details open ontoggle=alert\(1\)>)
+site:TARGET inurl:(redirect_uri=|redirect_url=|return_url=)
+site:TARGET inurl:(next=//evil.com|url=http://evil.com)
+site:TARGET inurl:(goto=|destination=|target=)
+site:TARGET "Open redirect blocked by CSP"
+site:TARGET inurl:(oauth_callback|oauth_verifier)
+site:TARGET inurl:(state=|code=|access_token=)
+site:TARGET "Invalid redirect_uri parameter"
+site:TARGET inurl:(redirect_to=|r=|ret=)
+site:TARGET inurl:(?url=|continue=)
+site:TARGET "This site can't be reached"
+site:TARGET inurl:(forward=|forward_url=)
+site:TARGET inurl:(client_id=|response_type=code)
+site:TARGET "OAuth 2.0 request failed"
+site:TARGET inurl:(scope=openid|nonce=)
+site:TARGET "Authorization code not found"
+site:TARGET inurl:(login_hint=|id_token_hint=)
+site:TARGET "Invalid state parameter"
+site:TARGET inurl:(prompt=consent|challenge=)
+site:TARGET inurl:(user_id=1|id=1|uid=1)
+site:TARGET inurl:(profile.php?id=1|user.php?id=1)
+site:TARGET inurl:(edit.php?id=|delete.php?id=)
+site:TARGET "Access denied for user"
+site:TARGET inurl:(?id=1'|id=1--)
+site:TARGET inurl:(order_id=|invoice_id=|payment_id=)
+site:TARGET "You do not have permission"
+site:TARGET inurl:(api/users/1|api/accounts/1)
+site:TARGET inurl:(/v1/user/1|/v2/profile/1)
+site:TARGET "Invalid user ID"
+site:TARGET inurl:(session_id=|token=|auth=)
+site:TARGET "This user does not exist"
+site:TARGET inurl:(?ref=1|reference=1)
+site:TARGET "Insufficient privileges"
+site:TARGET inurl:(admin/users/1|mod/users/1)
+site:TARGET inurl:(/debug/pprof/|/metrics|/.git/logs/)
+site:TARGET inurl:(/.git/refs/|/.git/HEAD)
+site:TARGET "Git repository found"
+site:TARGET inurl:(/.DS_Store|/.svn/entries)
+site:TARGET "Index of /.git"
+site:TARGET inurl:(/.env.example|/.env.backup)
+site:TARGET "No such app or invalid API key"
+site:TARGET inurl:(/api/internal/|/internal/api/)
+site:TARGET "GraphQL introspection"
+site:TARGET inurl:(/__webpack_hmr|/_next/webpack-hmr)
+site:TARGET "webpack://"
+site:TARGET inurl:(/static/js/main.*.js|bundle.js)
+site:TARGET "sourceMappingURL"
+site:TARGET inurl:(/api/graphql-introspection)
+site:TARGET "__NEXT_DATA__"
+site:TARGET "window.__INITIAL_STATE__"
+site:TARGET "X-Swiftlet-Error"
+site:TARGET inurl:(/health|/ping|/status)
+site:TARGET "upstream timed out"
+site:TARGET "500 Internal Server Error"
+site:TARGET "Request header field is too large"
+site:TARGET "Client closed connection"
+site:TARGET "504 Gateway Timeout"
+site:TARGET "upstream prematurely closed"
+site:TARGET inurl:(cmd.exe|nc.exe|netcat|powershell)
+site:TARGET inurl:(/bin/sh|/bin/bash|whoami|id|)
+site:TARGET inurl:(`|`|;|&&|$(|`${|bash -c)
+site:TARGET intext:"uid="|gid="|euid="
+site:TARGET "sh: command not found"
+site:TARGET inurl:(ping -c|nc -lvp|curl.*|)
+site:TARGET "nslookup.*failed"
+site:TARGET inurl:(system\(|popen\(|shell_exec\()
+site:TARGET "executed command.*output"
+site:TARGET inurl:(?cmd=|&command=)
+site:TARGET "backconnect.*port"
+site:TARGET inurl:(/proc/self/fd/0|/dev/tcp/)
+site:TARGET "tcpdump.*capture"
+site:TARGET "netstat -an"
+site:TARGET "ps aux|top|htop"
+site:TARGET inurl:(nmap.*-sV|masscan)
+site:TARGET "dirbuster|wfuzz|gobuster"
+site:TARGET "sqlmap.*--dbs"
+site:TARGET "metasploit.*msfconsole"
+site:TARGET "burpsuite.*proxy"
+site:TARGET "zAP.*proxy"
+site:TARGET "john.*cracked"
+site:TARGET "hashcat.*running"
+site:TARGET inurl:(.ser|.dat|.pickle|.yaml|.yml)
+site:TARGET intext:"java.io.ObjectInputStream"
+site:TARGET "org.apache.commons.collections.functor"
+site:TARGET inurl:(?unserialize=)
+site:TARGET "ysoserial.*payload"
+site:TARGET intext:"O:4:\"Test\""
+site:TARGET "PHP object injection"
+site:TARGET inurl:(session.serialize)
+site:TARGET "unserialize(): Error"
+site:TARGET "<?xml version=\"1.0\"?"
+site:TARGET "<!DOCTYPE.*\[<!ENTITY"
+site:TARGET "xxe.*payload"
+site:TARGET "xsl:import"
+site:TARGET "DTD.*external"
+site:TARGET "libxml_disable_entity_loader"
+site:TARGET inurl:(upload.xml|test.xml)
+site:TARGET "This XML file does not appear"
+site:TARGET "unexpected token"
+site:TARGET "xml-external-entity"
+site:TARGET inurl:(graphql|graphql.php|graphql.json)
+site:TARGET inurl:(/_query|/_mutation|/_introspection)
+site:TARGET "__schema{|__type{|__typename"
+site:TARGET "queryType{|mutationType"
+site:TARGET "data":{"errors"
+site:TARGET "IntrospectionQuery"
+site:TARGET inurl:(/vndr/|/vendor/|/wp-content/plugins/)
+site:TARGET "x-requested-with:XMLHttpRequest"
+site:TARGET "_wpnonce|_token|CSRF"
+site:TARGET "X-CSRF-Token"
+site:TARGET "Authorization: Bearer"
+site:TARGET "api_key.*in"
+site:TARGET "swagger.json|swagger.yaml"
+site:TARGET "/api-docs|/v2/api-docs"
+site:TARGET "springfox.*swagger"
+site:TARGET "redoc.*spec"
+site:TARGET ".well-known/swagger.json"
+site:TARGET "openapi.*3.0"
+site:TARGET "graphql.*schema"
+site:TARGET "apollo-server.*schema"
+site:TARGET "hasura.*v1/query"
+site:TARGET inurl:(upload.php|file_upload|image_upload)
+site:TARGET "File uploaded successfully"
+site:TARGET "GIF89a.*<?php"
+site:TARGET "<?php /\\*|<svg.*php"
+site:TARGET "eval.*base64_decode"
+site:TARGET "GF1dXRo.*cGFzc3dvcmQ"
+site:TARGET "PD9waHAgc3lzdGVtKCRfR0VUWydjbWQnXSk"
+site:TARGET "c3lzdGVt|ZXhlY2|YmFzaA"
+site:TARGET "JGFtZGRpbnBhcmFt|JHJlcXVlc3R1cmk"
+site:TARGET "webshell.*backdoor"
+site:TARGET "c99shell|wso|symlink"
+site:TARGET "r57|indoxploit|crystal"
+site:TARGET "b374k|mini|socket"
+site:TARGET "antichat.*blue"
+site:TARGET "Uploader.*v2.0"
+site:TARGET "File Manager"
+site:TARGET "CKEditor.*filemanager"
+site:TARGET "elFinder.*connector"
+site:TARGET "tinymce.*filemanager"
+site:TARGET inurl:(cache_|__pycache__|jsp.servlet)
+site:TARGET "cache.manifest"
+site:TARGET ".svn/entries"
+site:TARGET ".git/config"
+site:TARGET ".hg/requires"
+site:TARGET "composer.phar"
+site:TARGET "npm-debug.log"
+site:TARGET "yarn-error.log"
+site:TARGET ".DS_Store"
+site:TARGET "Thumbs.db"
+site:TARGET ".project|.classpath|.settings"
+site:TARGET ".idea/workspace.xml"
+site:TARGET ".vscode/settings.json"
+site:TARGET "local.properties"
+site:TARGET "captain-definition"
+site:TARGET "Dockerfile.*EXPOSE"
+site:TARGET ".travis.yml"
+site:TARGET ".gitlab-ci.yml"
+site:TARGET "Jenkinsfile"
+site:TARGET "circleci.*config"
+site:TARGET "appveyor.yml"
+site:TARGET "CODEOWNERS"
+site:TARGET "SECURITY.md"
+site:TARGET inurl:(order|invoice|payment|profile)
+site:TARGET "order_id=|user_id=|profile_id="
+site:TARGET "change_email|reset_password"
+site:TARGET "verify_|confirm_|activate_"
+site:TARGET "temp_|preview_|draft_"
+site:TARGET "admin_preview"
+site:TARGET "debug_|trace_|log_"
+site:TARGET "sql_|query_|dump_"
+site:TARGET "backup_|archive_|export_"
+site:TARGET "session_|cookie_|auth_"
+site:TARGET "csrf_|nonce_|token_"
+site:TARGET "api_|vndr_|vendor_"
+site:TARGET "beta_|alpha_|staging_"
+site:TARGET "dev_|test_|qa_"
+site:TARGET "internal_|private_|secure_"
+site:TARGET*_
+site:TARGET intext:"eyJhbGciOiJub25l"
+site:TARGET intext:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9"
+site:TARGET intext:"kid.*jndi"
+site:TARGET intext:"alg.*none"
+site:TARGET "x5c.*vulnerable"
+site:TARGET "jwk.*public"
+site:TARGET "RS256.*HS256"
+site:TARGET intext:"iss.*aud"
+site:TARGET "refresh_token.*expires"
+site:TARGET "access_token.*scope"
+site:TARGET intext:"id_token.*nonce"
+site:TARGET "oauth2.*callback"
+site:TARGET "openid.*discovery"
+site:TARGET "saml.*assertion"
+site:TARGET "oidc.*discovery"
+site:TARGET "auth0.*domain"
+site:TARGET "keycloak.*realm"
+site:TARGET "cognito.*userPool"
+site:TARGET "firebase.*auth"
+site:TARGET "session.*hijack"
+site:TARGET "csrf.*token"
+site:TARGET "XSRF-TOKEN.*value"
+site:TARGET inurl:graphql intitle:"GraphiQL"
+site:TARGET inurl:graphql "Introspection"
+site:TARGET inurl:graphql "__schema"
+site:TARGET inurl:graphql "__type"
+site:TARGET inurl:graphql "queryType"
+site:TARGET inurl:graphql "mutationType"
+site:TARGET inurl:graphql "subscriptionType"
+site:TARGET "typeDefs.*schema"
+site:TARGET "resolvers.*graphql"
+site:TARGET "GraphQL.*playground"
+site:TARGET inurl:graphiql
+site:TARGET inurl:graphql-config
+site:TARGET "schema.graphql"
+site:TARGET "introspection.json"
+site:TARGET "schema.json"
+site:TARGET "graphql.*schema"
+site:TARGET inurl:voyager
+site:TARGET "GraphQL.*Voyager"
+site:TARGET "altair.*graphql"
+site:TARGET "postman.*graphql"
+site:TARGET "schema.gql"
+site:TARGET "typeDefs.js"
+site:TARGET "makeExecutableSchema"
+site:TARGET inurl:grpc "grpc-gateway"
+site:TARGET inurl:grpc-web
+site:TARGET "proto.*grpc"
+site:TARGET "*.proto"
+site:TARGET "syntax = \"proto3\""
+site:TARGET "package.*service"
+site:TARGET "service.*rpc"
+site:TARGET "grpc.*reflection"
+site:TARGET "envoy.*grpc"
+site:TARGET "grpcurl.*describe"
+site:TARGET "protoc.*gen"
+site:TARGET "googleapis.*proto"
+site:TARGET "descriptor.proto"
+site:TARGET "grpc_health_v1"
+site:TARGET "grpc.reflection.v1alpha"
+site:TARGET "x-grpc-web"
+site:TARGET "grpc-status"
+site:TARGET inurl:istio "virtualservice"
+site:TARGET inurl:linkerd
+site:TARGET "consul.*key-value"
+site:TARGET "envoy.*admin"
+site:TARGET inurl:envoy "admin"
+site:TARGET "x-envoy"
+site:TARGET "istio.*telemetry"
+site:TARGET "mesh.*gateway"
+site:TARGET "service-mesh.*config"
+site:TARGET "traefik.*dashboard"
+site:TARGET "nginx-ingress.*controller"
+site:TARGET "kong.*admin"
+site:TARGET "ambassador.*diag"
+site:TARGET "gloo.*portal"
+site:TARGET "tanzu.*spring"
+site:TARGET "knative.*serving"
+site:TARGET "serving.knative.dev"
+site:TARGET "gateway.*istio"
+site:TARGET "virtualservice.*istio"
+site:TARGET "Jenkins.*scriptApproval"
+site:TARGET inurl:jenkins "configure"
+site:TARGET "gitlab-ci.*yml"
+site:TARGET ".gitlab-ci.yml"
+site:TARGET "circleci.*config"
+site:TARGET ".circleci"
+site:TARGET "travis.*yml"
+site:TARGET ".travis.yml"
+site:TARGET "github.*workflows"
+site:TARGET ".github/workflows"
+site:TARGET "bitbucket-pipelines.yml"
+site:TARGET "azure-pipelines.yml"
+site:TARGET "teamcity.*build"
+site:TARGET "bamboo.*plan"
+site:TARGET "circleci.*orb"
+site:TARGET "argocd.*application"
+site:TARGET "flux.*kustomization"
+site:TARGET "helmfile.yml"
+site:TARGET "kustomization.yml"
+site:TARGET "values.yaml"
+site:TARGET "Chart.yaml"
+site:TARGET "secrets.yaml"
+site:TARGET "configmap.yaml"
+site:TARGET "serverless.*yml"
+site:TARGET "serverless.json"
+site:TARGET "template.yaml.*serverless"
+site:TARGET "aws-lambda.*function"
+site:TARGET "function.json"
+site:TARGET "cloudformation.*template"
+site:TARGET "*.cfn.yml"
+site:TARGET "sam.*template"
+site:TARGET "cloudbuild.yaml"
+site:TARGET "appengine.*app.yaml"
+site:TARGET "firebase.json"
+site:TARGET "firestore.rules"
+site:TARGET "storage.rules"
+site:TARGET "functions.*index.js"
+site:TARGET "netlify.toml"
+site:TARGET "_redirects"
+site:TARGET "_headers"
+site:TARGET "vercel.json"
+site:TARGET "now.json"
+site:TARGET "amplify.yml"
+site:TARGET "aws-exports.js"
+site:TARGET "cdk.*stack"
+site:TARGET "pulumi.*yaml"
+site:TARGET "terragrunt.hcl"
+site:TARGET "backend.tf"
+site:TARGET "provider.tf"
+site:TARGET "variables.tf"
+site:TARGET "outputs.tf"
+site:TARGET "state.tfstate"
+site:TARGET "tfplan.json"
+site:TARGET "infracost.json"
+site:TARGET "private_key.*0x"
+site:TARGET "mnemonic.*phrase"
+site:TARGET "keystore.*json"
+site:TARGET "wallet.*seed"
+site:TARGET "infura.*project_id"
+site:TARGET "alchemy.*api_key"
+site:TARGET "etherscan.*api"
+site:TARGET "web3.*provider"
+site:TARGET "hardhat.*config"
+site:TARGET "truffle.*config"
+site:TARGET "foundry.toml"
+site:TARGET "remix.*ide"
+site:TARGET "solidity.*contract"
+site:TARGET "*.sol"
+site:TARGET "abi.json"
+site:TARGET "contract.*address"
+site:TARGET "nft.*mint"
+site:TARGET "opensea.*api"
+site:TARGET "burp.*collaborator"
+site:TARGET "interactsh.*com"
+site:TARGET "canarytokens.*org"
+site:TARGET "requestbin.*com"
+site:TARGET "webhook.site"
+site:TARGET "ngrok.*io"
+site:TARGET "localtunnel.*me"
+site:TARGET "xip.io"
+site:TARGET "nip.io"
+site:TARGET "sslip.io"
+site:TARGET "crash.*oops"
+site:TARGET "stack.*trace"
+site:TARGET "core.*dump"
+site:TARGET "heap.*dump"
+site:TARGET "thread.*dump"
+site:TARGET "gc.log"
+site:TARGET "hs_err_pid"
+site:TARGET "javacore.*txt"
+site:TARGET "metaspace.*dump"
+site:TARGET intitle:"index of" "backup"
+site:TARGET intitle:"index of" ".env"
+site:TARGET intitle:"index of" ".git"
+site:TARGET intitle:"index of" ".svn"
+site:TARGET intitle:"index of" ".idea"
+site:TARGET intitle:"index of" ".vscode"
+site:TARGET intitle:"index of" "config"
+site:TARGET intitle:"index of" "database"
+site:TARGET intitle:"index of" "dump"
+site:TARGET intitle:"index of" "logs"
+site:TARGET inurl:.env
+site:TARGET inurl:.env.local
+site:TARGET inurl:.env.production
+site:TARGET inurl:.env.dev
+site:TARGET inurl:.env.backup
+site:TARGET inurl:.git/config
+site:TARGET inurl:.git/HEAD
+site:TARGET inurl:.gitignore
+site:TARGET inurl:.svn/entries
+site:TARGET inurl:.hg/requires
+site:TARGET inurl:wp-config.php
+site:TARGET inurl:wp-config.php.bak
+site:TARGET inurl:wp-content/debug.log
+site:TARGET inurl:wp-content/uploads
+site:TARGET inurl:wp-json/wp/v2/users
+site:TARGET inurl:wp-admin/install.php
+site:TARGET inurl:wp-includes
+site:TARGET "wp_nonce"
+site:TARGET "define('DB_PASSWORD'"
+site:TARGET "define('AUTH_KEY'"
+site:TARGET inurl:configuration.php
+site:TARGET inurl:sites/default/settings.php
+site:TARGET inurl:app/etc/env.php
+site:TARGET inurl:local.xml
+site:TARGET inurl:parameters.yml
+site:TARGET inurl:settings.py
+site:TARGET inurl:config.yml
+site:TARGET inurl:config.json
+site:TARGET inurl:application.properties
+site:TARGET inurl:bootstrap.php
+site:TARGET filetype:sql "INSERT INTO"
+site:TARGET filetype:sql "CREATE TABLE"
+site:TARGET filetype:bak
+site:TARGET filetype:old
+site:TARGET filetype:log "error"
+site:TARGET filetype:log "warning"
+site:TARGET filetype:zip "backup"
+site:TARGET filetype:tar "backup"
+site:TARGET filetype:gz "dump"
+site:TARGET filetype:7z
+site:TARGET "DB_PASSWORD"
+site:TARGET "DB_USERNAME"
+site:TARGET "DATABASE_URL"
+site:TARGET "AWS_SECRET_ACCESS_KEY"
+site:TARGET "AWS_ACCESS_KEY_ID"
+site:TARGET "API_KEY"
+site:TARGET "SECRET_KEY"
+site:TARGET "PRIVATE_KEY"
+site:TARGET "BEGIN RSA PRIVATE KEY"
+site:TARGET "BEGIN OPENSSH PRIVATE KEY"
+site:TARGET inurl:phpinfo.php
+site:TARGET inurl:info.php
+site:TARGET inurl:test.php
+site:TARGET inurl:debug.php
+site:TARGET inurl:console
+site:TARGET inurl:telescope
+site:TARGET inurl:horizon
+site:TARGET inurl:swagger
+site:TARGET inurl:swagger-ui
+site:TARGET inurl:api-docs
+site:TARGET inurl:graphql
+site:TARGET intitle:"GraphiQL"
+site:TARGET "__schema"
+site:TARGET "IntrospectionQuery"
+site:TARGET "queryType"
+site:TARGET "mutationType"
+site:TARGET "__NEXT_DATA__"
+site:TARGET "window.__INITIAL_STATE__"
+site:TARGET "sourceMappingURL"
+site:TARGET inurl:.map
+site:TARGET inurl:admin
+site:TARGET inurl:administrator
+site:TARGET inurl:panel
+site:TARGET inurl:dashboard
+site:TARGET inurl:manage
+site:TARGET inurl:controlpanel
+site:TARGET inurl:login
+site:TARGET inurl:signin
+site:TARGET inurl:auth
+site:TARGET inurl:oauth
+site:TARGET "Authorization: Bearer"
+site:TARGET "access_token"
+site:TARGET "refresh_token"
+site:TARGET "id_token"
+site:TARGET "csrf_token"
+site:TARGET "X-CSRF-Token"
+site:TARGET "session_id"
+site:TARGET "remember_me"
+site:TARGET "set-cookie"
+site:TARGET "SameSite=None"
+site:TARGET inurl:backup
+site:TARGET inurl:backups
+site:TARGET inurl:dump
+site:TARGET inurl:archive
+site:TARGET inurl:export
+site:TARGET inurl:logs
+site:TARGET inurl:errors
+site:TARGET inurl:stacktrace
+site:TARGET inurl:trace
+site:TARGET inurl:debug
+site:TARGET "Fatal error"
+site:TARGET "Warning: include"
+site:TARGET "Warning: require"
+site:TARGET "Undefined index"
+site:TARGET "Undefined variable"
+site:TARGET "Call to undefined function"
+site:TARGET "Stack trace:"
+site:TARGET "Exception in thread"
+site:TARGET "Traceback (most recent call last)"
+site:TARGET "panic: runtime error"
+site:TARGET inurl:/api/v1
+site:TARGET inurl:/api/v2
+site:TARGET inurl:/internal/api
+site:TARGET inurl:/private/api
+site:TARGET inurl:/admin/api
+site:TARGET inurl:/debug/pprof
+site:TARGET inurl:/metrics
+site:TARGET inurl:/health
+site:TARGET inurl:/status
+site:TARGET inurl:/actuator
+site:TARGET "Jenkinsfile"
+site:TARGET ".gitlab-ci.yml"
+site:TARGET ".github/workflows"
+site:TARGET "docker-compose.yml"
+site:TARGET "Dockerfile"
+site:TARGET "kubeconfig"
+site:TARGET "values.yaml"
+site:TARGET "Chart.yaml"
+site:TARGET "terraform.tfstate"
+site:TARGET ".tfstate"
+site:TARGET "firebase.json"
+site:TARGET "firestore.rules"
+site:TARGET "storage.rules"
+site:TARGET "netlify.toml"
+site:TARGET "vercel.json"
+site:TARGET "amplify.yml"
+site:TARGET "serverless.yml"
+site:TARGET "cloudformation"
+site:TARGET "sam template"
+site:TARGET "cdk stack"
+site:TARGET "stripe_secret"
+site:TARGET "paypal_client_id"
+site:TARGET "twilio_account_sid"
+site:TARGET "sendgrid_api_key"
+site:TARGET "mailgun_api_key"
+site:TARGET "algolia_api_key"
+site:TARGET "cloudinary_cloud_name"
+site:TARGET "shopify_api_key"
+site:TARGET "slack_token"
+site:TARGET "xoxb-"
+site:TARGET "id_rsa"
+site:TARGET ".ssh/config"
+site:TARGET "authorized_keys"
+site:TARGET ".npmrc"
+site:TARGET ".yarnrc"
+site:TARGET "pip.conf"
+site:TARGET ".pypirc"
+site:TARGET ".netrc"
+site:TARGET "credentials"
+site:TARGET "secrets"
+site:TARGET inurl:upload
+site:TARGET inurl:filemanager
+site:TARGET inurl:elFinder
+site:TARGET inurl:connector
+site:TARGET "File uploaded successfully"
+site:TARGET "multipart/form-data"
+site:TARGET "Content-Disposition: form-data"
+site:TARGET "tmp_name"
+site:TARGET "move_uploaded_file"
+site:TARGET "upload_max_filesize"
+site:TARGET "phpMyAdmin"
+site:TARGET "Adminer"
+site:TARGET "BigDump"
+site:TARGET "SQL dump"
+site:TARGET "MySQL server version"
+site:TARGET "PostgreSQL query failed"
+site:TARGET "SQLite error"
+site:TARGET "ODBC Driver"
+site:TARGET "ORA-"
+site:TARGET "SQLSTATE["
+site:TARGET "X-Powered-By"
+site:TARGET "Server: nginx"
+site:TARGET "Server: Apache"
+site:TARGET "X-AspNet-Version"
+site:TARGET "X-Generator"
+site:TARGET "meta generator"
+site:TARGET "robots.txt"
+site:TARGET "security.txt"
+site:TARGET ".well-known"
+site:TARGET "sitemap.xml"
+site:TARGET inurl:webhook-cert-manager.io intext:"caBundle.*-----BEGIN"
+site:TARGET filetype:csr.pem intext:"CN=*.*.svc.cluster.local"
+site:TARGET inurl:admissionregistration.k8s.io intext:"failurePolicy=Ignore"
+site:TARGET inurl:mutatingwebhookconfigurations intext:"sideEffects=None"
+site:TARGET filetype:injector-config.yaml intext:"initContainers.*vault"
+site:TARGET inurl:kyverno.io/policy intext:"validate.*deny"
+site:TARGET filetype:opa-gatekeeper.yaml intext:"rego.*secret"
+site:TARGET inurl:networkpolicies.k8s.io intext:"egress.*allow"
+site:TARGET filetype:cni-config.json intext:"cniVersion.*1.0.0"
+site:TARGET inurl:multus.cni.io intext:"delegates.*macvlan"
+site:TARGET filetype:whereabouts.yaml intext:"gateway.*ip"
+site:TARGET filetype:calico-node.yaml intext:"bgppeers"
+site:TARGET inurl:weave-net intext:"password.*base64"
+site:TARGET filetype:flanneld-config.json intext:"backend.type=vxlan"
+site:TARGET inurl:canal intext:"hostPort.*4789"
+site:TARGET filetype:macvlan.conf intext:"master.*eth0"
+site:TARGET inurl:hostpath-provisioner intext:"node.*claimRef"
+site:TARGET filetype:snapshot-controller.yaml intext:"csi-snapshotter"
+site:TARGET inurl:external-provisioner intext:"nodeid.*hostname"
+site:TARGET filetype:openebs-config.yaml intext:"cstor.*pool"
+site:TARGET inurl:portworx intext:"kvdb.*etcd"
+site:TARGET filetype:storageos-api.yaml intext:"apiroot.*https"
+site:TARGET inurl:topolvm.io intext:"csi-driver-registrar"
+site:TARGET filetype:local-path-provisioner.yaml intext:"helperImage"
+site:TARGET inurl:descheduler intext:"evict.*pod"
+site:TARGET filetype:cluster-autoscaler.yaml intext:"cloud-provider=aws"
+site:TARGET inurl:karpenter intext:"provisioner.*ttl"
+site:TARGET filetype:vertical-pod-autoscaler.yaml intext:"updateMode=Auto"
+site:TARGET inurl:nodelifecyclecontroller intext:"taints"
+site:TARGET filetype:node-problem-detector.yaml intext:"custom.*plugin"
+site:TARGET inurl:prometheus-adapter intext:"resource.*rules"
+site:TARGET filetype:metrics-server.yaml intext:"kubelet-preferred"
+site:TARGET inurl:kube-state-metrics intext:"metric-labels-allowlist"
+site:TARGET filetype:pluto.yaml intext:"drift.*detection"
+site:TARGET inurl:kubetest2 intext:"test.*infra"
+site:TARGET filetype:sonobuoy.yaml intext:"plugins.*e2e"
+site:TARGET inurl:kuttl intext:"teststeps.*assert"
+site:TARGET filetype:conftest.rego intext:"deny.*msg"
+site:TARGET inurl:trivy-operator intext:"ignoreUnfixed"
+site:TARGET filetype:gitleaks.yaml intext:"allowlist"
+site:TARGET inurl:slirp4netns intext:"cidr.*10.0.2"
+site:TARGET filetype:containerd-config.toml intext:"sandbox_image"
+site:TARGET inurl:cri-dockerd intext:"enable_selinux"
+site:TARGET filetype:cri-o.conf.d intext:"pause_image"
+site:TARGET inurl:runsc intext:"root.*mount"
+site:TARGET filetype:gVisor.yaml intext:"runsc.*debug"
+site:TARGET inurl:firecracker-containerd intext:"kernel.*image"
+site:TARGET filetype:kata-config.yaml intext:"hypervisor.*qemu"
+site:TARGET inurl:youki intext:"cgroups.*v2"
+site:TARGET filetype:containerd-shim-k8s-v2.yaml intext:"runtimeClass"
+site:TARGET inurl:runc.*debug intext:"oci.*spec"
+site:TARGET filetype:nerdctl.toml intext:"hosts.*unix"
+site:TARGET inurl:containerd-grpc intext:"task.*create"
+site:TARGET filetype:shim-v2.json intext:"io.containerd"
+site:TARGET inurl:cri-grpc intext:"ListPods"
+site:TARGET filetype:snapshotter.*overlayfs intext:"upperdir"
+site:TARGET inurl:containerd.*metrics intext:"io.containerd.*"
+site:TARGET filetype:tini.yaml intext:"--user.*0:0"
+site:TARGET inurl:dumb-init intext:"--single-child"
+site:TARGET filetype:supervisord.conf intext:"user=root"
+site:TARGET inurl:nsenter intext:"--target.*PID"
+site:TARGET filetype:chroot.sh intext:"--userspec"
+site:TARGET inurl:setns intext:"CLONE_NEWNET"
+site:TARGET filetype:unshare.yaml intext:"--mount-proc"
+site:TARGET inurl:clone3 intext:"CLONE_NEWCGROUP"
+site:TARGET filetype:seccomp.json intext:"SCMP_ACT_ALLOW"
+site:TARGET inurl:apparmor.d intext:"profile.*PERMISSIVE"
+site:TARGET filetype:selinux-policy intext:"allow.*domain"
+site:TARGET inurl:seccomp-bpf intext:"BPF_PROG_LOAD"
+site:TARGET filetype:landlock.yaml intext:"LANDLOCK_CREATE_RULES"
+site:TARGET inurl:eBPF.*map intext:"BPF_MAP_CREATE"
+site:TARGET filetype:bpftrace intext:"kprobe.*syscall"
+site:TARGET inurl:falco.*rules intext:"evt.type=open"
+site:TARGET filetype:sysdig.*rules.yaml intext:"k8s.*namespace"
+site:TARGET inurl:tracee intext:"tracee-ebpf.*hooks"
+site:TARGET filetype:inspektor-gadget.yaml intext:"gadgets.*net"
+site:TARGET inurl:bpftrace.*scripts intext:"BEGIN.*{"
+site:TARGET filetype:ccze.conf intext:"colorscheme.*dark"
+site:TARGET inurl:sysdig.*cloud intext:"token.*eyJ"
+site:TARGET filetype:falcoctl.*rules intext:"macro.*k8s"
+site:TARGET inurl:deepfence intext:"threatmapper.*token"
+site:TARGET filetype:sysdig-secure.yaml intext:"secure.*backend"
+site:TARGET inurl:prism.*agent intext:"telemetry.*key"
+site:TARGET filetype:stackrox.*central intext:"grpc.*tls"
+site:TARGET inurl:aqua-security intext:"scanner.*results"
+site:TARGET filetype:sysdig.*capture intext:"filter.*proc.name"
+site:TARGET inurl:wireshark.*profile intext:"decode.as"
+site:TARGET filetype:tcpdump.*filter intext:"tcp.port.*6443"
+site:TARGET inurl:strace.*output intext:"connect.*AF_UNIX"
+site:TARGET filetype:ltrace.conf intext:"library.*libssl"
+site:TARGET inurl:perf.*events intext:"tracepoint.*sys_enter"
+site:TARGET filetype:ftrace.*events intext:"kprobe.*do_execve"
+site:TARGET inurl:bcc.*tools intext:"python.*bpf"
+site:TARGET filetype:argp intext:"--namespace.*k8s"
+site:TARGET inurl:auditd.*rules intext:"-a always.*execve"
+site:TARGET filetype:audit.rules.d intext:"-w /etc/kubernetes"
+site:TARGET inurl:lsm.*profile intext:"capability.*CAP_SYS_ADMIN"
+site:TARGET filetype:grsecurity.*patch intext:"PAX_MEMORY_STACKGAP"
+site:TARGET inurl:grub.cfg intext:"set superusers.*password"
