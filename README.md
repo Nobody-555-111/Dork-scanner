@@ -1,4 +1,4 @@
-# 🔍 WebPath Scanner – Advanced Directory & File Discovery Tool
+# WebPath Scanner – Advanced Directory & File Discovery Tool
 
 [![Python 3.6+](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -7,37 +7,37 @@
 
 **WebPath Scanner** is a powerful, flexible, and lightweight directory and file brute‑forcer designed for security researchers, penetration testers, and system administrators. It reads custom payload lines (supporting Google Dork‑like syntax) and converts them into real HTTP GET requests to discover hidden paths, backup files, configuration leaks, administrative panels, and other sensitive resources on web servers – **but only on systems you are authorised to test**.
 
-> 🛡️ **IMPORTANT – LEGAL USE ONLY**  
+> **IMPORTANT – LEGAL USE ONLY**  
 > This tool must **only** be used against systems you own or have **explicit written permission** to test. Unauthorised scanning is illegal in most jurisdictions and may lead to severe penalties. The author assumes **zero liability** for misuse.
 
 ---
 
 ## 📑 Table of Contents
 
-- [✨ Key Features](#-key-features)
-- [⚙️ How It Works](#️-how-it-works)
-- [📋 Requirements](#-requirements)
-- [🚀 Installation & Setup](#-installation--setup)
-- [🎯 Usage Guide](#-usage-guide)
+- [ Key Features](#-key-features)
+- [ How It Works](#️-how-it-works)
+- [ Requirements](#-requirements)
+- [ Installation & Setup](#-installation--setup)
+- [ Usage Guide](#-usage-guide)
   - [Basic Example](#basic-example)
   - [Understanding the Output](#understanding-the-output)
-- [📄 Payload Format Deep Dive](#-payload-format-deep-dive)
+- [ Payload Format Deep Dive](#-payload-format-deep-dive)
   - [Supported Operators](#supported-operators)
   - [Conversion Examples](#conversion-examples)
-- [🛠️ Customisation Options](#️-customisation-options)
+- [ Customisation Options](#️-customisation-options)
   - [Adjusting Timeout & Content Length](#adjusting-timeout--content-length)
   - [Changing Headers](#changing-headers)
   - [Adding Proxy Support](#adding-proxy-support)
-- [📁 Output & Results Management](#-output--results-management)
-- [⚠️ Legal & Ethical Disclaimer](#️-legal--ethical-disclaimer)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [👤 Author](#-author)
+- [ Output & Results Management](#-output--results-management)
+- [ Legal & Ethical Disclaimer](#️-legal--ethical-disclaimer)
+- [ Troubleshooting](#-troubleshooting)
+- [ Contributing](#-contributing)
+- [ License](#-license)
+- [ Author](#-author)
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Description |
 |---------|-------------|
@@ -67,7 +67,7 @@
 
 ---
 
-## 📋 Requirements
+## Requirements
 
 - **Python** 3.6 or higher (3.10+ recommended)
 - **`requests`** library (install via `pip`)
