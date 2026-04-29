@@ -1,4 +1,4 @@
-# WebPath Scanner – Advanced Directory & File Discovery Tool
+# Dork Scanner – Advanced Directory & File Discovery Tool
 
 [![Python 3.6+](https://img.shields.io/badge/Python-3.6%2B-blue?logo=python&logoColor=white)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
